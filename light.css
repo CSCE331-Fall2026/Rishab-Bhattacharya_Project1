@@ -7,7 +7,22 @@ color: #303030;
 a {
     margin-right: 15px;
 }
+a:link {
+    color: blue;
+}
 
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: darkred;
+    text-decoration: underline;
+}
+
+a:active {
+    color: red;
+}
 img {
     width: 150px;
 }
