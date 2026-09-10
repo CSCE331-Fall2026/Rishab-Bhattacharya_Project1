@@ -1,4 +1,13 @@
 body {
 background-color: white;
 color: #303030;
+  font-family: Arial;
+    margin: 30px;
+}
+a {
+    margin-right: 15px;
+}
+
+img {
+    width: 150px;
 }
